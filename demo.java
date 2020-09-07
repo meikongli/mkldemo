@@ -1,0 +1,4 @@
+ main{
+ syso("qwe");
+
+}
